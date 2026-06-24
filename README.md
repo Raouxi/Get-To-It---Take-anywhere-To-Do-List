@@ -9,10 +9,10 @@ This to-do list tool can be manufactured and assembled easily from a couple of p
 3. Bottom Plate - holds the magnetic system to connect to phone, fridge, night stand, and more - qty 1
 
 Hardware Needed:
-M3x10mm SHCS - qty 4
-M3 Nuts - qty 4
-Adhesive Magnetic Ring - qty 1
-Cherry MX Black Keyboard Spring - qty 4
+1. M3x10mm SHCS - qty 4
+2. M3 Hex Nuts - qty 4
+3. Adhesive Magnetic Ring - qty 1
+4. Cherry MX Black Keyboard Spring - qty 4
 
 Instructions:
 1. Print all the 3D printed parts and embed the magnetic ring into the bottom plate when printing by add a layer pause
