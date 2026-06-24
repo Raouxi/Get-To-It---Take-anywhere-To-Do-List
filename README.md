@@ -4,7 +4,7 @@ A simple device for getting shit done. No more lost to-do lists or to-do lists l
 This to-do list tool can be manufactured and assembled easily from a couple of parts. Uses 3" x 3" standard Post-It notes cut to size to fit the tool which utilizes 2" x 3" Post-It notes. The 3D printed parts do not require supports and all parts can be printed with whatever settings desired except for the bottom plate. The bottom plate has an embedded magnetic ring in the 3D print. This can be done by adding a pause in the print slicer at the last layer before it gets covered, the magnetic ring can be placed in the opening and printing can continue. All parts were printed in Standard quality with 0.2mm layer height using a 0.4mm nozzle. For the bottom plate, a finishing variable layer height was used in order to get two layers from the magnetic ring to the outside of the print for improved surface quality finish
 
 3D Printed Parts:
-1. Top Plate - holds the Post-It notes from not fallig out - qty 1
+1. Top Plate - holds the Post-It notes from not falling out - qty 1
 2. Middle Plate - base that the Post-It notes sit on - qty 1
 3. Bottom Plate - holds the magnetic system to connect to phone, fridge, night stand, and more - qty 1
 
